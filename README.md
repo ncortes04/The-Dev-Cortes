@@ -10,11 +10,13 @@ I am a full-stack web developer with 1.5 year of experience in Javascript, CSS, 
 
 Here are some of the notable projects I have worked on:
 
+- :sun_with_face: **[MY Portfolio]**: In case you missed it heres my website with a little more about me, along with my projects. - [Website](https://ncortes04.github.io/My-Portfolio/).
+
+- :newspaper: **[Blogy]**:  A full stack tech blog application, that allows users to interact and discuss about coding. - [Source Code](https://github.com/ncortes04/blogy).
+
 - :racing_car: **[Rental Car]**: A full-stack website that offers a convenient platform for renting cars. - [Source Code](https://github.com/ncortes04/car-rental).
 
 - :shopping: **[Shop-Pay]** A full-stack website that offers a platform for purchasing various attie cars. - [Source Code](https://github.com/ncortes04/shop-pay).
-
-- :newspaper: **[Techy]**: A full stack tech blog application, that allows users to interact and discuss about coding. - [Source Code](https://github.com/ncortes04/tech-blog).
 
 For a complete list of my projects, please visit my [GitHub Repositories](https://github.com/ncortes04?tab=repositories).
 
